@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
 
-This repository contains firmware spirit level detector with BigClown accelerometer for [Core Module](https://shop.bigclown.com/core-module).
+This repository contains firmware Spirit Level for [Core Module](https://shop.bigclown.com/core-module).
 
 If you want to get more information about Core Module, firmware and how to work with it, please follow this link:
 
