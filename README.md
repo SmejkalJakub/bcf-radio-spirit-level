@@ -2,7 +2,7 @@
 
 # Spirit level meassurement with accelerometer
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-spirit-level/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-spirit-level)
+[![build](https://github.com/hardwario/twr-radio-spirit-level/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-spirit-level/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-spirit-level.svg)](https://github.com/bigclownprojects/bcf-radio-spirit-level/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-spirit-level.svg)](https://github.com/bigclownprojects/bcf-radio-spirit-level/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
